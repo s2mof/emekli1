@@ -2,4 +2,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/394984398778531840?theme=light&bg=18191c&animated=true&borderRadius=30px&hideStatus=true)](https://discord.com/users/394984398778531840)
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=316fmgkimewkbtjuybekhwidwrai&cover_image=false&theme=default&bar_color=ffffff&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316fmgkimewkbtjuybekhwidwrai&cover_image=false&theme=default&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
